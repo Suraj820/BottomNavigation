@@ -16,4 +16,6 @@
     <string name="rewards_fragment">Rewards Fragment</string>
     <string name="setting_fragment">Settting Frgament</string>
     <string name="ticket_fragment">Ticket Fragment</string>
+    <string name="cart">cart</string>
+    <string name="settings">settings</string>
 </resources>
