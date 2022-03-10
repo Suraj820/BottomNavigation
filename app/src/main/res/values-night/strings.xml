@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="link_to_content_button">Link to Content Button</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="content_fragment">Content Fragment</string>
+    <string name="cart_fragment">cart fragment</string>
+    <string name="offers_fragment">Offers Fragment</string>
+    <string name="rewards_fragment">Rewards Fragment</string>
+    <string name="setting_fragment">Settting Frgament</string>
+    <string name="ticket_fragment">Ticket Fragment</string>
+</resources>
